@@ -34,3 +34,4 @@ The analysis shows that June and December are viable months for surfing and eati
 # References
 FiveThirtyEight style sheet: https://matplotlib.org/3.1.1/gallery/style_sheets/fivethirtyeight.html
 magic methods: https://www.geeksforgeeks.org/dunder-magic-methods-python/
+Flask: https://flask.palletsprojects.com/en/2.0.x/api/#flask.json.jsonify
