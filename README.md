@@ -20,13 +20,13 @@ This analysis filters temperature measurements on date data available in a sqlit
   
 A snapshot of the summary statistics for June are shown here:
 
-![June image](Resources/june_temps.png)
+![June image](/resources/june_temps.png)
 
 2. Retrieved December temps/summary statistics from the hawaii.sqlite database using Python, Pandas functions and methods, and SQLAlchemy
 
 A snapshot of the summary statistics for December are shown here:
 
-![December image](Resources/december_temps.png)
+![December image](/resources/december_temps.png)
 
 ## Summary
 The analysis shows that June and December are viable months for surfing and eating ice cream temperature wise. I would recommend looking at writing additional queries to gather the precipitation data for June and December to get an idea on how much rain each of the two months have as well.
