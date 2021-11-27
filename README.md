@@ -11,7 +11,7 @@ This analysis filters temperature measurements on date data available in a sqlit
 * Retrieve all the temperatures for the months of June and December 
 * Convert those temperatures to lists
 * Create a DataFrame for each of those lists
-* Generate the summary statistics fo each
+* Generate the summary statistics for each
 
 #### Software: Python, Pandas, SQLite, and SQLAlchemy
 
