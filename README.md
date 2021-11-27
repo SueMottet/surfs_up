@@ -16,15 +16,15 @@ This analysis filters temperature measurements on date data available in a sqlit
 #### Software: Python, Pandas, SQLite, and SQLAlchemy
 
 ## Results
-1.Retrieved June temps/summary statistics from the hawaii.sqlite database using Python, Pandas functions and methods, and SQLAlchemy
+1. Retrieved June temps/summary statistics from the hawaii.sqlite database using Python, Pandas functions and methods, and SQLAlchemy
   
- A snapshot of the summary statistics for June are shown here:
+  A snapshot of the summary statistics for June are shown here:
 
 ![June image](/resources/june_temps.png)
 
-2.Retrieved December temps/summary statistics from the hawaii.sqlite database using Python, Pandas functions and methods, and SQLAlchemy
+2. Retrieved December temps/summary statistics from the hawaii.sqlite database using Python, Pandas functions and methods, and SQLAlchemy
 
- A snapshot of the summary statistics for December are shown here:
+  A snapshot of the summary statistics for December are shown here:
 
 ![December image](/resources/december_temps.png)
 
